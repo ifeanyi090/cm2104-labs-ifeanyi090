@@ -1,0 +1,10 @@
+db.quotes.insert({name : "Darth Vader", quote:"I find your lack of faith disturbing."})
+
+db.quotes.insert({name : "Han Solo", quote:"Never tell me the odds!"});
+db.quotes.insert({name : "Yoda", quote:"When gone am I, the last of the Jedi will you be. The Force runs strong in your family. Pass on what you have learned."});
+db.quotes.insert({name : "Yoda", quote:"Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you."});
+db.quotes.insert({name : "Obi-Wan Kenobi", quote:"You were my brother, Anakin. I loved you."});
+db.quotes.insert({name : "Han Solo", quote:"Chewie, we’re home."});
+db.quotes.insert({name : "Darth Vader", quote:"NOOOOOOOOOOOOOOOOOO!"});
+db.quotes.insert({name : "Leia Organa", quote:"Hope"});
+db.quotes.insert({name : "Emperor Palpatine ", quote:"Now, young Skywalker, you will die."});
